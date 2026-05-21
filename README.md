@@ -4,6 +4,7 @@ DynaTech AI Chatbot is an educational AI assistant built using Botpress Cloud.
 The chatbot helps users learn Artificial Intelligence concepts through simple lessons and interactive quizzes.
 
 ## Features
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/48f02999-2204-40eb-b215-86f2c43683e5" />
 
 - Learn AI topics in simple language
 - Interactive multiple-choice quizzes
