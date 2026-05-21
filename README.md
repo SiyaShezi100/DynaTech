@@ -20,6 +20,7 @@ The chatbot helps users learn Artificial Intelligence concepts through simple le
   - AI Ethics
   - Prompt Engineering
   - Generative AI
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/f123dd81-8469-4446-ad8c-b1f22981820a" />
 
 ## Technologies Used
 
