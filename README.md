@@ -1,2 +1,5 @@
 # DynaTech
-StudyBot is an AI-powered educational assistant designed to support learners and  professionals at all levels, including primary school learners, high school students, tertiary  students, teachers, and working professionals. It helps users improve their understanding  of various topics by generating clear notes and summaries.
+The DynaTech AI Chatbot is an educational conversational assistant designed to teach users
+fundamental Artificial Intelligence concepts and assess their understanding through topic-based
+multiple-choice quizzes. It is built on the Botpress Cloud platform and deployed via a publicly
+accessible shareable webchat link.
